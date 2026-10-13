@@ -1,0 +1,26 @@
+Enterprise Customer Retention Policy
+
+Customer retention is a strategic priority for the organization.
+
+Customers with declining revenue, low transaction frequency,
+or declining profitability should be reviewed by the account
+management team.
+
+High-risk customers should receive a structured account review.
+
+The account management team should evaluate pricing,
+customer engagement, product adoption, service quality,
+and competitive pressure.
+
+Customers with strong revenue and high profitability should
+be considered for cross-selling and expansion opportunities.
+
+Business decisions should be supported by measurable evidence
+from enterprise analytics.
+
+Customer accounts identified as high risk should be prioritized
+for intervention before significant revenue deterioration occurs.
+
+Account managers should document the reason for intervention,
+the evidence supporting the decision, and the recommended
+follow-up action.
