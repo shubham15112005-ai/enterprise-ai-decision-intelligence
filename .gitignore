@@ -1,2 +1,18 @@
-# Created by pytest automatically.
-*
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env.local
+
+data/raw/*
+data/processed/*
+data/documents/*
+database/*.db
+
+.vscode/
+.idea/
+
+*.log
+.DS_Store
